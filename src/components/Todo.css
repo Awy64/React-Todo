@@ -1,0 +1,14 @@
+.todo {
+  font-size: large;
+  margin: 0 auto;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.wrapper {
+  width: 400px;
+  margin: auto;
+}
+
